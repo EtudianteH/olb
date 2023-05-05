@@ -1,0 +1,5 @@
+6
+a) Git pull permet de dupliquer un depot github en local de récupérer et ajouter tandis que  git fetch permet de mettre à jour toutes les références distantes sur le dépôt local sans modifier les références locales. 
+b) 
+c) pour supprimer une branche distante on fait git branch -d nom_de_la_branche
+d) avec la commande git log nomfichier
